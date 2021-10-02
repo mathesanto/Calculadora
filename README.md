@@ -1,2 +1,2 @@
 # Calculadora
-Calculadora desenvolvida em python usando a biblioteca TKinter para a interface gráfica.
+Calculadora desenvolvida em Python usando a biblioteca TKinter para a interface gráfica.
