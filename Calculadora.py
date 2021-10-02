@@ -1,4 +1,3 @@
-# Calculadora aprimorada usando while, continue, break e boolean
 from tkinter import *
 from functools import partial
 
